@@ -1,4 +1,4 @@
-# 📝 Python Sorting Fun App
+# 📝 Python Sorting For Edu
 
 Tired of messy lists? 🤯 Meet your new sorting playground! This simple Python project lets you try out **Bubble Sort**, **Selection Sort**, and **Quick Sort** — see how they work, compare them, and have fun with numbers! 💻✨
 
