@@ -43,9 +43,9 @@ cd python-sorting-fun
 2. Run the scripts:
 
 ```bash
-python bubble_sort.py
-python selection_sort.py
-python quick_sort.py
+python bubble.py
+python selection.py
+python quick.py
 ```
 
 3. Watch your list get sorted magically! 🎩✨
